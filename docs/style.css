@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-image: url(aqua-d9b59c89.png);
     
@@ -19,11 +18,7 @@ p{
     width: 350px;
     height: 250px;
     display:inline-block ;
-    position: relative; bottom: 125px;
-    
-    
-                  
-    
+    position: relative; bottom: 125px;    
 }
 .border2{
     border: 3px solid white;
@@ -44,7 +39,6 @@ p{
     
 
 }
-=======
 body{ background-image: url(aqua-d9b59c89.png);
      
 }
@@ -68,4 +62,3 @@ body{ background-image: url(aqua-d9b59c89.png);
 
 
 
->>>>>>> bf26f2075e500f69ed4021df2f83faad92b40fbe
