@@ -1,0 +1,45 @@
+body{
+    background-image: url(aqua-d9b59c89.png);
+    
+}
+h1{
+    color: aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+p{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    
+}
+.border{ border: 3px solid white;
+    border-radius: 18px;
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+    display:inline-block ;
+    position: relative; bottom: 125px;
+    
+    
+                  
+    
+}
+.border2{
+    border: 3px solid white;
+    border-radius: 18px;
+    position: relative; bottom: 0px;
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+    display:inline-block ;
+    margin-left: 15px;  
+}
+.border3 {
+    border: 3px solid white;
+    border-radius: 18px;
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+    
+
+}
