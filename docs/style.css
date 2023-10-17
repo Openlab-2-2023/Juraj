@@ -36,6 +36,8 @@ p{
     padding: 5px;
     width: 350px;
     height: 250px;
+    display:inline-block ;
+    position: relative; bottom: -32px;
     
 
 }
@@ -50,14 +52,17 @@ body{ background-image: url(aqua-d9b59c89.png);
      font-family: Cambria, Cochin,
       Georgia, Times, 'Times New Roman', serif;
        font-size: larger; 
-}
+  }
+ .border4{
+    border: 3px solid white;
+    border-radius: 18px;
+    position: relative; bottom: 0px;
+    padding: 5px;
+    width: 350px;
+    height: 250px;
+    display:inline-block ;
+    margin-left: 15px;
 
-
-   .border{ border: 2px solid white;
-     border-radius: 15px;
-      padding: 5px;
-       width: 350px;
-        height: 250px;
  }
 
 
