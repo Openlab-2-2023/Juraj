@@ -38,6 +38,7 @@ p{
     height: 250px;
     display:inline-block ;
     position: relative; bottom: -32px;
+    margin-left: 15px;
     
 
 }
@@ -61,6 +62,7 @@ body{ background-image: url(aqua-d9b59c89.png);
     width: 350px;
     height: 250px;
     display:inline-block ;
+    bottom: 60px;
     margin-left: 15px;
 
  }
