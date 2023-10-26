@@ -64,8 +64,22 @@ body{ background-image: url(aqua-d9b59c89.png);
     display:inline-block ;
     bottom: 60px;
     margin-left: 15px;
-
  }
+ .button {
+    
+    
+    background-color: transparent;
+    color: white;
+    border: 3px solid white ;
+    border-radius: 18px ;
+    height: 72px;
+    width: 140px;        
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    
+
+}
 
 
 
