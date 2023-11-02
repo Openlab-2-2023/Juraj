@@ -67,7 +67,9 @@ body{ background-image: url(aqua-d9b59c89.png);
  }
  .button {
     
-    
+    position: relative;
+    left: 1270px;
+    bottom: 45px;
     background-color: transparent;
     color: white;
     border: 3px solid white ;
@@ -77,8 +79,17 @@ body{ background-image: url(aqua-d9b59c89.png);
     text-align: center;
     font-weight: bold;
     font-size: 20px;
+    cursor: pointer;
+    transition: opacity 1s ;
+    
     
 
+}
+.button:hover {
+    background:whitesmoke ;
+    opacity: 0,8;
+    transition: 1s;
+    color:blue ;
 }
 
 
