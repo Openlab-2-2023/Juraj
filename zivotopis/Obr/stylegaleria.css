@@ -1,0 +1,13 @@
+
+        body{
+background-image:url(5cf2660af5f4214def7166dc7a7c8062.jpg) ;
+}
+.gborder{
+        border: 3px solid white;
+        color: white;
+        border-radius: 5px ;
+        height: 50px;
+        width:200px ;
+        text-align:center;
+        margin-left: 50px;    
+}
